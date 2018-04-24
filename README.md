@@ -1,7 +1,8 @@
-# Projects
-a list of all projects 
+# Collaborative computational tools for the Human Cell Atlas
 
-#### HCA Projects
+a list of computational projects supported by CZI
+
+#### Projects
 TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 ----- | ----------- | ------- 
 [name](link to repo) | description of the project | Jeremy Freeman, PhD @ CZI Science
