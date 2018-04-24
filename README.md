@@ -1,6 +1,6 @@
-# Collaborative computational tools for the Human Cell Atlas
+# Computational tools for the Human Cell Atlas
 
-a list of computational projects supported by CZI
+a list of collaborative computational projects supported by CZI
 
 #### Projects
 TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
