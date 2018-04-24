@@ -2,10 +2,13 @@
 
 - name: Adam
   github: bigdatagenomics/adam
+  group: scale
 
 - name: Hail
   github: hail-is/hail
+  group: scale
 
 - name: Scanpy
   github: theislab/scanpy
+  group: bioconductor
 
