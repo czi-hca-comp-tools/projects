@@ -2,8 +2,10 @@
 layout: default
 title: Home
 ---
+<h3>Projects list (alphabetical)</h3>
 <ul>
-{% for project in site.data.projects %}
+{% assign namesort = (site.data.projects | sort: 'name') %}
+{% for project in namesort %}
   <li>
     <a href="https://github.com/{{ project.github }}">
       {{ project.name }}

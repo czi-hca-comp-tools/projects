@@ -6,3 +6,6 @@
 - name: Hail
   github: hail-is/hail
 
+- name: Scanpy
+  github: theislab/scanpy
+
