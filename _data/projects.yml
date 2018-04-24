@@ -1,2 +1,8 @@
+---
+
+- name: Adam
+  github: bigdatagenomics/adam
+
 - name: Hail
   github: hail-is/hail
+
