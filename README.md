@@ -39,7 +39,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
 | [Tybalt](https://github.com/greenelab/tybalt) | Variational Autoencoder for Gene Expression ([Paper](https://doi.org/10.1142/9789813235533_0008 "Extracting a biologically relevant latent space from cancer transcriptomes with variational autoencoders")) | Greg Way, Qiwen Hu, and Casey Greene [@Greenelab](https://github.com/greenelab) [@Penn](http://www.greenelab.com/) |
-| [CoGAPS](https://github.com/FertigLab/CoGAPS) | Bayesian Non-Negative Matrix Factorization | Elana Fertig, Genevieve Stein-O'Brie, and Tom Sherman [@FertigLab](https://github.com/FertigLab)|
+| [CoGAPS](https://github.com/FertigLab/CoGAPS) | Bayesian Non-Negative Matrix Factorization | Elana Fertig, Genevieve Stein-O'Brien, and Tom Sherman [@FertigLab](https://github.com/FertigLab)|
 ### Manifold Alignment
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
