@@ -1,8 +1,6 @@
 # Computational tools for the Human Cell Atlas
 
-a list of collaborative computational projects supported by CZI
-
-## Projects
+A list of collaborative computational projects supported by CZI!
 
 Here is a sample template you can copy and paste to add your project:
 
@@ -10,6 +8,9 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 ----- | ----------- | ------- 
 [name](link to repo) | description of the project | Jeremy Freeman, PhD @ CZI Science
 [another project name](link to repo) | description of the project | Joe Hand and Danielle Robinson, PhD @ CS&S
+
+
+## Projects
 
 ### Bioconductor
 
