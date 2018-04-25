@@ -39,6 +39,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
 | [Tybalt](https://github.com/greenelab/tybalt) | Variational Autoencoder for Gene Expression ([Paper](https://doi.org/10.1142/9789813235533_0008 "Extracting a biologically relevant latent space from cancer transcriptomes with variational autoencoders")) | Greg Way, Qiwen Hu, and Casey Greene [@Greenelab](https://github.com/greenelab) [@Penn](http://www.greenelab.com/) |
+| [PHATE](https://github.com/KrishnaswamyLab/PHATE) |  Visualizing high-dimensional data ([Paper](https://doi.org/10.1101/120378 "Visualizing Transitions and Structure for High Dimensional Data Exploration")) | Kevin Moon, David van Dijk, and Smita Krishnaswamy [@KrishnaswamyLab](https://github.com/KrishnaswamyLab) [@Yale](http://www.krishnaswamylab.com/) |
 
 ### Manifold Alignment
 
