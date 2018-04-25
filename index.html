@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+<h3>Projects list (alphabetical)</h3>
+<ul>
+{% assign namesort = (site.data.projects | sort: 'name') %}
+{% for project in namesort %}
+  <li>
+    <a href="https://github.com/{{ project.github }}">
+      {{ project.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+<h3>Projects list (by group)</h3>
+{% assign grouped = site.data.projects | group_by: "group" %}
+{% for group in grouped %}
+<h4>{{ group.name }}</h4>
+<ul>
+{% for project in group.items %}
+  <li>
+    <a href="https://github.com/{{ project.github }}">
+      {{ project.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+{% endfor %}
