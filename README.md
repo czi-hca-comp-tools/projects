@@ -55,6 +55,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
+| [Rosetta](https://github.com/broadinstitute/2018_04_25_Rosetta) | Translating data across single-cell readouts. | Juan C. Caicedo, Shantanu Singh, Anne E. Carpenter |
 
 ### Population Variation 
 
