@@ -55,6 +55,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
+[mixOmics](www.mixOmics.org) [paper](http://journals.plos.org/ploscompbiol/article/related?id=10.1371/journal.pcbi.1005752) | A suite of latent component based methods encompassing different data integration frameworks ([cross-platform](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1553-8), [multi-omics](https://www.biorxiv.org/content/early/2018/03/20/067611)) and feature selection| Kim-Anh Le Cao[@lecaolab](https://github.com/lecaolab), University of Melbourne|
 
 ### Population Variation 
 
