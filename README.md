@@ -16,6 +16,8 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
+| [SingleCellExperiment](https://github.com/drisso/SingleCellExperiment) | R container for storing data from single-cell experiments | Davide Risso @ Weill Cornell Medicine and Aaron Lun @ CRUK Camrbidge Institute |
+| [beachmat](https://github.com/LTLA/beachmat) | Provides a consistent R/C++ class interface for a variety of commonly used matrix types, including sparse and HDF5-backed matrices.| Aaron Lun @ CRUK Camrbidge Institute |
 
 ### Cell Type
 
