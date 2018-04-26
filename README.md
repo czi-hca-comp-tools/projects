@@ -68,6 +68,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
 | [ASAP](https://github.com/DeplanckeLab/ASAP) | Automated Single-cell Analysis Pipeline ([Web portal](https://asap.epfl.ch)) ([Paper](https://doi.org/10.1093/bioinformatics/btx337 "ASAP: a web-based platform for the analysis and interactive visualization of single-cell RNA-seq data")) | Vincent Gardeux, Fabrice David, and Bart Deplancke [@DeplanckeLab](https://github.com/DeplanckeLab) [@EPFL](http://deplanckelab.epfl.ch) |
+| [Xena](http://xena.ucsc.edu) | Web-browser based integrative functional genomics data visualization ([Web site](https://singlecell.xenahubs.net)) | Brian Craft, Mary Goldman, Jing Zhu [@ucscXena](https://github.com/ucscXena) [@UCSCXena](https://twitter.com/UCSCXena)
 
 ### Scale
 
