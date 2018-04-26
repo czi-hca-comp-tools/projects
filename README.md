@@ -58,7 +58,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
-| [IA-SVA](https://github.com/UcarLab/IA-SVA) | Iteratively Adjusted Surrogate Variable Analyses ([Paper](https://www.biorxiv.org/content/early/2018/04/24/151217 "A statistical framework for the robust detection of hidden variation in single cell transcriptomes"))| Donghyung Lee, Anthony Cheng, Mohan Bolisetty, Duygu Ucar [@UcarLab](https://github.com/UcarLab/) [@JAX](http://ucarlab.org/) |
+| [IA-SVA](https://github.com/UcarLab/IA-SVA) | Iteratively Adjusted Surrogate Variable Analyses ([Paper](https://www.biorxiv.org/content/early/2018/04/24/151217 "A statistical framework for the robust detection of hidden variation in single cell transcriptomes"))| Donghyung Lee [@LeeLab](https://github.com/dleelab/iasvaExamples), Anthony Cheng, Mohan Bolisetty, Duygu Ucar [@UcarLab](https://github.com/UcarLab/) [@JAX](http://ucarlab.org/) |
 
 
 ### Portals
