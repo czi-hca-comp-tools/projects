@@ -55,6 +55,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
+[The Rosetta project: translating data across single-cell technologies to define human cell types](https://github.com/broadinstitute/2018_04_25_Rosetta) | Use parallel population-level mRNA & morphology data to uncover relationships between the two data types; test predictivity at a single-cell level | Anne Carpenter, Juan Caicedo [@CarpenterLab](http://www.broadinstitute.org/~anne/), Broad Institute
 
 ### Population Variation 
 
