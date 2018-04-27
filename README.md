@@ -73,6 +73,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
+| [ADAM](https://github.com/bigdatagenomics/adam) | ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark and Parquet. | Michael Heuer, Anthony Joseph, UC Berkeley; Ryan Williams, Uri Laserson, Icahn School of Medicine at Mount Sinai. |
 
 ### Trajectories
 
