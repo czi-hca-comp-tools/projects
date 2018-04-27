@@ -56,6 +56,8 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
 | [CellBench](https://github.com/LuyiTian/CellBench_data/blob/master/cellbench.md) | Benchmark data for scRNA-seq | Matt Ritchie, Luyi Tian [@LuyiTian](https://github.com/LuyiTian), WEHI|
+[mixOmics](www.mixOmics.org) [paper](http://journals.plos.org/ploscompbiol/article/related?id=10.1371/journal.pcbi.1005752) | A suite of latent component based methods encompassing different data integration frameworks ([cross-platform](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1553-8), [multi-omics](https://www.biorxiv.org/content/early/2018/03/20/067611)) and feature selection| Kim-Anh Le Cao[@lecaolab](https://github.com/lecaolab), University of Melbourne|
+[The Rosetta project: translating data across single-cell technologies to define human cell types](https://github.com/broadinstitute/2018_04_25_Rosetta) | Use parallel population-level mRNA & morphology data to uncover relationships between the two data types; test predictivity at a single-cell level | Anne Carpenter, Juan Caicedo [@CarpenterLab](http://www.broadinstitute.org/~anne/), Broad Institute
 
 ### Population Variation 
 
@@ -74,6 +76,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
+| [ADAM](https://github.com/bigdatagenomics/adam) | ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark and Parquet. | Michael Heuer, Anthony Joseph, UC Berkeley; Ryan Williams, Uri Laserson, Icahn School of Medicine at Mount Sinai. |
 
 ### Trajectories
 
