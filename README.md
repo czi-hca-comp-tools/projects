@@ -23,6 +23,7 @@ TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS
 
 | TITLE | DESCRIPTION | PEOPLE & AFFILIATIONS |
 | ----- | ----------- | --------------------- |
+|[PicturedRocks](https://picturedrocks.github.io/)| Implementation of feature selection algorithms | Anna Gilbert, Alexander Vargo, Umang Varma at University of Michigan|
 
 ### Cell State
 
